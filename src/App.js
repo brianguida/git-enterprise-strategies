@@ -9,8 +9,6 @@ function App() {
         <p>
           Hello World! This is our team project.
         </p>	
-        <p> Hello World! </p>
-        <p> My name is Brian and this is my project </p>
       </header>
     </div>
   );
